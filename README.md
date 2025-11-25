@@ -1,4 +1,4 @@
-# Amazon-Clone0.2#  – Java Swing Application
+# Amazon-Clone0.2  – Java Swing Application
 
 This project is a Java Swing–based **Amazon Clone** that simulates a simple e‑commerce shopping experience. It includes product display, image support, cart management, and uses DSA concepts to improve performance and structure.
 
